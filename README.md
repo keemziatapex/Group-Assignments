@@ -12,13 +12,13 @@ This tutorial outlines the process of assigning security groups to users in Entr
 ![image alt](https://github.com/keemziatapex/Group-Assignments/blob/9b6fbe02dd74618cfda36229bd3ec433f658d7a9/Screenshot%202026-06-19%20032504.png)
 </p>
 <p>
-Assigned HR-Staff-SecGroup to user Fausat Bolaji.
+Assigned IT-SecGroup to user Fausat Bolaji.
 </p>
 <br />
-<p>
-<img width="1729" height="700" alt="image" src="https://github.com/userattachments/assets/e4cfbd3d-7eef-4179-a571-7d96e3163ec0" />
+
+![image alt](https://github.com/keemziatapex/Group-Assignments/blob/dda6159599b6e88c4a345936271a9570b736c84f/Screenshot%202026-06-19%20032829.png)
 </p>
 <p>
-Assigned Sales-Team-SecGroup to user Khairat Abijo.
+Assigned Admin-SecGroup to user Khairat Abijo.
 </p>
 <br />
