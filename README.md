@@ -1,5 +1,5 @@
 # Assigning Groups to Users in Microsoft Azure's Entra ID <p align="center">
-<img width="600" height="400" alt="image" src="https://github.com/userattachments/assets/14806b36-bc52-44a8-a825-615241d884e0" />
+![image alt](https://github.com/keemziatapex/Group-Assignments/blob/ed682d3805f39f66cc938d7ed63cbfa84b5df0cf/Screenshot%202026-06-19%20032344.png)
 </p>
 <h1>Assigning Groups to Users in Our Lab Environment (Azure)</h1>
 This tutorial outlines the process of assigning security groups to users in Entra ID.<br />
